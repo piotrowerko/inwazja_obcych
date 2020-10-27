@@ -1,0 +1,1 @@
+print("masz na imie Leszek")
